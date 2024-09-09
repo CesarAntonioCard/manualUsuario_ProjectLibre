@@ -16,10 +16,12 @@
 Este manual de usuario proporciona una guía completa para el uso de ProjectLibre. Está diseñado para ayudar a los usuarios a familiarizarse con las funcionalidades básicas y avanzadas del software, asegurando una experiencia de usuario óptima. El manual cubre desde la instalación inicial hasta la resolución de problemas comunes, proporcionando instrucciones claras y concisas para cada etapa del proceso.
 
 ### Contenidos
-1. Introducción
-2. Instalación
-3. Uso Básico
-4. Funcionalidades Avanzadas
+1. [Introducción](#introducción)
+2. [Instalación](#instalación)
+3. [Uso Básico](#uso-básico)
+4. [Funcionalidades Avanzadas](#funcionalidades-avanzadas)
+5. [Glosario](#glosario)
+
 
 ---
 
@@ -27,7 +29,7 @@ Este manual de usuario proporciona una guía completa para el uso de ProjectLibr
 
 ---
 
-# 1. Introduccion
+# Introducción
 
 ## ProjectLibre
 
@@ -40,7 +42,7 @@ Es un software de administración de proyectos que se puede ejecutar en diferent
 - Permite una asignación y gestión adecuada de los recursos, minimizando el riesgo de sobrecarga o escasez.
 - Los informes y gráficos proporcionan una visión clara y accesible del estado del proyecto, mejorando la comunicación entre los miembros del equipo y las partes interesadas.
 
-# 2. Instalación
+# Instalación
 
 ## Requisitos del Sistema
 
@@ -100,8 +102,10 @@ Para asegurar que ProjectLibre funcione de manera óptima en tu dispositivo, ase
    - Una vez finalizada, el programa se ejecutará automáticamente.
     
         ![Mi Imagen](ejecutado.png)
+
 ---
-# 3. Funcionalidades Basicas de ProjectLibre
+
+# Uso Básico
 
 ### 1. **Crear un nuevo proyecto**
    - Una vez instalado Project libre abrimos y hacemos clic en nuevo, nos aparecerá una ventana para crear el nuevo proyecto, donde nos indica poner el nombre del proyecto, el administrador, la fecha de inicio, con la opción de programar hacia delante y hacia atrás en este caso hacia adelante que es o más habitual y alguna nota que queramos colocar, luego hacemos clic en OK.
@@ -260,7 +264,9 @@ Para asegurar que ProjectLibre funcione de manera óptima en tu dispositivo, ase
        ![Mi Imagen](SeguimientoDelProgreso5.png)
 
        ![Mi Imagen](SeguimientoDelProgreso6.png)
-# 4. Funcionalidades Avanzadas:
+
+# Funcionalidades Avanzadas
+
 ### Cronograma
 Una vez hayamos creado las tareas podemos añadir sus dependencias, para esto colocamos el número de la tarea que es predecesora, de esta forma:
 
@@ -433,3 +439,15 @@ Seleccionar el tipo de informe:
      Cuándo usarlo: Ideal para asegurarse de que cada miembro del equipo sabe sus responsabilidades y para identificar posibles problemas de asignación o sobrecarga de tareas.
 ![Mi Imagen](crearInforme8.png)   
  
+---
+
+# Glosario
+- **Tarea**: Unidad básica de trabajo en un proyecto. Puede ser independiente o depender de otras tareas.
+- **Recurso**: Persona, equipo o material asignado para completar una tarea.
+- **Diagrama de Gantt**: Herramienta visual para mostrar el cronograma de un proyecto, donde las tareas se representan como barras en una línea de tiempo.
+- **Dependencia**: Relación entre dos tareas donde una depende de la finalización o el inicio de otra.
+- **Ruta Crítica**: Secuencia de tareas que determina la duración total del proyecto. Cualquier retraso en una tarea de la ruta crítica afectará el proyecto completo.
+- **Hitos**: Puntos clave en el proyecto que marcan la finalización de fases importantes o eventos significativos.
+- **Sobreasignación de Recursos**: Cuando un recurso tiene más tareas asignadas de las que puede realizar dentro del tiempo disponible.
+- **Costos**: Gastos involucrados en la ejecución de las tareas, incluyendo recursos y materiales.
+- **Cronograma**: Plan detallado del tiempo de inicio y finalización de las tareas en el proyecto.
