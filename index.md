@@ -283,6 +283,7 @@ Donde enlazamos la actividad actual con la siguiente haciendo click y arrastrand
 La ruta crítica es la secuencia de tareas que determina la duración del proyecto. Son las actividades que no pueden retrasarse.
 
 Crear o abrir tu proyecto en ProjectLibre.
+
   ![Mi Imagen](crearProyecto1.png)
 
 Llenamos los datos correspondientes y seleccionamos OK.
@@ -318,6 +319,7 @@ Crear informe con la ruta crítica, para esto nos vamos a otras vistas y selecci
 ![Mi Imagen](crearRuta5.png)
 
 Luego seleccionamos el reporte de Información de tareas
+
 ![Mi Imagen](crearRuta6.png)
 
 Procedemos a filtrar por CPM que es Critical Path Method.
