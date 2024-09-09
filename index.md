@@ -290,10 +290,10 @@ La ruta crítica es la secuencia de tareas que determina la duración del proyec
 
 Crear o abrir tu proyecto en ProjectLibre.
 
-  ![Mi Imagen](crearProyecto1.png)
+  ![Mi Imagen](crearproyecto1.png)
 
 Llenamos los datos correspondientes y seleccionamos OK.
-  ![Mi Imagen](crearProyecto2.png)
+  ![Mi Imagen](crearproyecto2.png)
 
 Ingresar todas las tareas y establecer las dependencias entre ellas.
    
